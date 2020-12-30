@@ -7,4 +7,6 @@ I currently work with:
 - [Github](https://github.com), where the world builds software (this very website 🙂)
 
 ### :coffee: Wanna chat?
-:point_right: [Tweet Me](https://twitter.com/_bigzoo)!
+🐦 [Tweet Me](https://twitter.com/_bigzoo)!
+
+✉️ [Mail Me](mailto:chris@bigzoo.me)!
